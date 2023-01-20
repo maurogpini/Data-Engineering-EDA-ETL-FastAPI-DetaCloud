@@ -36,8 +36,10 @@ Para el correcto funcionamiento de la API se debe considerar los siguiente:
 ej: La API le devolverá la cantidad de veces que la palabra amazing está en la plataforma amazon si pega el código
 
 /get_word_count/amazing/amazon 
+  
 
 Mal código -- > /get_word_count/amazon/amazing   --> parámetros mal posicionados
+  
 Mal código -- > /get_word_count/cablevision/amazing   --> valor de parámetro inexistente
 
 
@@ -45,7 +47,7 @@ CODIGOS PARA LAS QUERYS
 
 Query 1 -- > Cantidad de veces que aparece una keyword en el título de peliculas/series, por plataforma.
 
-/get_word_count/complete con la palabra que desea entontrar/complete con la plataforme que desea encontrar
+/get_word_count/amazing/amazon 
 
 Query 2 --> Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año.
 
