@@ -71,6 +71,6 @@ En el siguiente link pueden acceder a un breve resumen explicativo que se realiz
 
 ## **Links**
 
-Video --> 
+Video --> https://www.youtube.com/watch?v=SB6h8H0rCoA
 
 API --> https://ypmsnf.deta.dev/
